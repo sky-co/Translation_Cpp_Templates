@@ -1,0 +1,9 @@
+alias - 别名
+alias templates - 别名模板
+build - 构建
+class template argument deduction (CTAD) - 类模板参数推导
+compile-time - 编译期（大部分情况；需视上下文而定）
+deduction guide - 推导指引
+run-time, runtime - 运行期（大部分情况；需视上下文而定）
+user-defined type - 用户定义类型
+variadic template - 变参模板
