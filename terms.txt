@@ -1,9 +1,35 @@
 alias - 别名
 alias templates - 别名模板
 build - 构建
+callables - 可调用对象
+callback - 回调
 class template argument deduction (CTAD) - 类模板参数推导
-compile-time - 编译期（大部分情况；需视上下文而定）
+class type - 类类型
+closure - 闭包
+compile-time, compiletime - 编译期（大部分情况；需视上下文而定）
+compile-time expression - 编译期表达式
+compile-time value - 编译期值
+constant-expression - 常量表达式
 deduction guide - 推导指引
+explicit specialization - 显示特化
+functors - 仿函数
+incomplete instantiation - 非完全实例化
+instantiation of a declaration - 声明实例化
+lambdas - lambda表达式
+linkable entity - 可链接实体
+partial instantiation - 部分实例化
+partial specializations - 部分特化
+perfect forwarding - 完美转发
+regular class - 常规类
 run-time, runtime - 运行期（大部分情况；需视上下文而定）
+run-time cost - 运行期开销
+specialization - 特化
+surrogate call function - 代理调用函数
+type alias - 类型别名
+type traits - 类型特征
+template argument - 模板实参
+template parameter - 模板形参
+template instantiation - 模板实例化
+translation unit - 编译单元
 user-defined type - 用户定义类型
 variadic template - 变参模板
