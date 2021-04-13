@@ -14,9 +14,13 @@ deduction guide - 推导指引
 explicit specialization - 显示特化
 functors - 仿函数
 incomplete instantiation - 非完全实例化
+initializer - 初始化器
 instantiation of a declaration - 声明实例化
 lambdas - lambda表达式
 linkable entity - 可链接实体
+namespace scope - 命名空间
+placeholder type - 占位符类型
+parameterization clause - 参数化子句
 partial instantiation - 部分实例化
 partial specializations - 部分特化
 perfect forwarding - 完美转发
@@ -26,7 +30,7 @@ run-time cost - 运行期开销
 specialization - 特化
 surrogate call function - 代理调用函数
 type alias - 类型别名
-type traits - 类型特征
+type traits - 类型萃取
 template argument - 模板实参
 template parameter - 模板形参
 template instantiation - 模板实例化
